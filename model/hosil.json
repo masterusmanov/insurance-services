@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "fio": "Ilhom Nozimovich Yusupov",
+        "address": "Namangan, Uchqo'rg'on shahri, Ko'prikboshi M.F.Y, Yangiobod ko'cha",
+        "passport": "AA7654321",
+        "hosil": "Bug'doy"
+    },
+    {
+        "id": 2,
+        "fio": "Akram Bahodirovich To'raxo'jayev",
+        "address": "Namangan, Uchqo'rg'on shahri, Sohil M.F.Y, Nihol ko'cha",
+        "passport": "AA4567891",
+        "hosil": "Paxta"
+    },
+    {
+        "id": 3,
+        "fio": "Akram Anvarovich Baxodirov",
+        "address": "Namangan, Uchqo'rg'on shahri, Yoshlik M.F.Y, Andijon massivi",
+        "passport": "AC1478569",
+        "hosil": "Paxta"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "user_name": "Elyor",
+        "email": "elyor@mail.ru",
+        "password": "1234567"
+    },
+    {
+        "id": 2,
+        "user_name": "Orif",
+        "email": "orif@gmail.com",
+        "password": "1234567"
+    },
+    {
+        "id": 3,
+        "user_name": "kamol",
+        "email": "kamol@gmail.com",
+        "password": "1478523"
+    },
+    {
+        "id": 4,
+        "user_name": "abror",
+        "email": "abror@mail.ru",
+        "password": "123456789"
+    },
+    {
+        "id": 5,
+        "user_name": "Aziz",
+        "email": "aziz@gmail.com",
+        "password": "123456789"
+    },
+    {
+        "id": 6,
+        "user_name": "ilhom",
+        "email": "ilhom@gmail.com",
+        "password": "14748523"
+    }
+]

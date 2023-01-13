@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "fio": "Ilhom Nozimovich Yusupov",
+        "address": "Namangan, Uchqo'rg'on shahri, Ko'prikboshi M.F.Y, Yangiobod ko'cha",
+        "passport": "AA7654321",
+        "chorva": "Agrobank, Do'stlik ko'chasi 7-uy, ste'mol krediti"
+    },
+    {
+        "id": 1,
+        "fio": "Akram Baxodirovich Yusupov",
+        "address": "Namangan, Uchqo'rg'on shahri, Sohil M.F.Y, Nihol ko'cha",
+        "passport": "AA7654321",
+        "chorva": "Agrobank, Do'stlik ko'chasi 7-uy, ste'mol krediti"
+    },
+    {
+        "id": 2,
+        "fio": "Akram Bahodirovich To'raxo'jayev",
+        "address": "Namangan, Uchqo'rg'on shahri, Yoshlik M.F.Y, Andijon massivi",
+        "passport": "AA4567891",
+        "chorva": "2 bosh Qora mol"
+    }
+]
