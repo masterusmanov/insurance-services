@@ -19,7 +19,7 @@ fetch('http://localhost:1988/get_cars', {
             td4.textContent = car.passport;
             td5.textContent = car.marka;
 
-            i.className += 'fa fa-trash text-danger';
+            // i.className += 'fa fa-trash text-danger';
             i.style.cursor = 'pointer';
             i.addEventListener('click', () => {
                 fetch(`http://localhost:1988/delete_car/${car.id}`, {
@@ -28,7 +28,7 @@ fetch('http://localhost:1988/get_cars', {
                     .then(info => alert(info.msg))
             });
 
-            i2.className += 'fa fa-edit text-primary ml-3';
+            // i2.className += 'fa fa-edit text-primary ml-3';
             i2.setAttribute("data-target", "#myModal");
             i2.setAttribute("data-toggle", "modal");
             i2.style.cursor = 'pointer';

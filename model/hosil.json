@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "fio": "Ilhom Nozimovich Yusupov",
+        "fio": "nfcnbn",
         "address": "Namangan, Uchqo'rg'on shahri, Ko'prikboshi M.F.Y, Yangiobod ko'cha",
         "passport": "AA7654321",
         "hosil": "Bug'doy"
@@ -18,6 +18,13 @@
         "fio": "Akram Anvarovich Baxodirov",
         "address": "Namangan, Uchqo'rg'on shahri, Yoshlik M.F.Y, Andijon massivi",
         "passport": "AC1478569",
+        "hosil": "Paxta"
+    },
+    {
+        "id": 4,
+        "fio": "Ravshanov Alisher",
+        "address": "Namangan",
+        "passport": "AA9874125",
         "hosil": "Paxta"
     }
 ]

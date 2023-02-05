@@ -19,7 +19,7 @@ fetch('http://localhost:1988/get_propertys', {
             td4.textContent = property.passport;
             td5.textContent = property.mulk;
 
-            // i.className += 'fa fa-trash text-danger';
+            i.className += 'fa fa-trash text-danger';
             i.style.cursor = 'pointer';
             i.addEventListener('click', () => {
                 fetch(`http://localhost:1988/delete_property/${property.id}`, {
@@ -28,7 +28,7 @@ fetch('http://localhost:1988/get_propertys', {
                     .then(info => alert(info.msg))
             });
 
-            // i2.className += 'fa fa-edit text-primary ml-3';
+            i2.className += 'fa fa-edit text-primary ml-3';
             i2.setAttribute("data-target", "#myModal");
             i2.setAttribute("data-toggle", "modal");
             i2.style.cursor = 'pointer';

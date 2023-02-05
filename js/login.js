@@ -27,6 +27,9 @@ form.addEventListener('submit', (event) => {
         method: "POST"
     }).then(res => res.json())
         .then(users => {
+            if(email.value == "Admin@admin.com" && password.value == "insuranceAdmin"){
+                location.href = '../html/Main_page_admin.html'
+            }
             for(let user of users){
                 if(user.email == email.value && user.password == password.value){
                     location.href = '../html/Main_page.html'

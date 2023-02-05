@@ -34,5 +34,11 @@
         "user_name": "ilhom",
         "email": "ilhom@gmail.com",
         "password": "14748523"
+    },
+    {
+        "id": 7,
+        "user_name": "Jorabek",
+        "email": "jorabeksuyunov@gmail.com",
+        "password": "19972007"
     }
 ]
